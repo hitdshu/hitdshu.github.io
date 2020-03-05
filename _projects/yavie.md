@@ -1,7 +1,7 @@
 ---
 title: "Gridless 1-b DOA Estimation Exploiting SVM Approach"
-collection: publications
-permalink: /publication/gridless-doa
+collection: projects
+permalink: /projects/yavie
 excerpt: 'SCI期刊论文. Main contributor. We investigate the problem of direction of arrival (DOA) estimation with 1-b measurements in massive MIMO systems, as 1-b quantization offers low cost and low complexity in the implementation.'
 date: 2017-6-01
 paperurl: 'https://ieeexplore.ieee.org/document/7970094'
