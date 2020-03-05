@@ -2,7 +2,7 @@
 title: "一种基于支持向量机的单比特空间谱估计方法"
 collection: publications
 permalink: /publication/SVM-patent
-excerpt: '一种基于支持向量机的单比特空间谱估计方法'
+excerpt: 'Main contributor. 一种基于支持向量机的单比特空间谱估计方法'
 date: 2016-7-01
 paperurl: 'http://www.zhuanliqiao.com/zlqiao/patent-49e0b6c945aa4c5891724e2959c16d4c.html'
 ---
