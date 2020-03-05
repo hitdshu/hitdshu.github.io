@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Harbin Institute of Technology, 2011-2015
+* M.S. in Information and Communication Engineering, Harbin Institute of Technology, 2015-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018: Baseband engineer in 5G
+  * Huawei, Shanghai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2020: Computer vision engineer
+  * Nullmax, Shanghai
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English: 雅思7.0
+* C++: 熟练
+* Python/Eigen/Ceres/g2o/pytorch/caffe: 用过
+* subjects: SLAM, Deep learning, communication and signal processing.
 
 Publications
 ======
@@ -42,18 +35,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Words
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.words %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Projects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
