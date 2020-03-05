@@ -35,12 +35,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Words
-======
-  <ul>{% for post in site.words %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Projects
 ======
   <ul>{% for post in site.projects %}
