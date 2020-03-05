@@ -6,6 +6,9 @@ main:
   - title: "Words"
     url: /words/    
     
+  - title: "Projects"
+    url: /projects/ 
+    
   - title: "CV"
     url: /cv/
     
