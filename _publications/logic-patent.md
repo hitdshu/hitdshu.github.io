@@ -2,7 +2,7 @@
 title: "一种基于逻辑回归的单比特空间谱估计方法"
 collection: publications
 permalink: /publication/logic-patent
-excerpt: 'Main contributor. 一种基于逻辑回归的单比特空间谱估计方法'
+excerpt: '专利. Main contributor. 一种基于逻辑回归的单比特空间谱估计方法'
 date: 2016-7-01
 paperurl: 'http://www.zhuanliqiao.com/zlqiao/patent-90eeeee6d9544fff9f794c312f19c0b0.html'
 ---
