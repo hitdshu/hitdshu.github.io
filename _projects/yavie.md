@@ -4,10 +4,9 @@ collection: projects
 permalink: /projects/yavie
 excerpt: 'Yet another visual inertial estimator(YAVIE). This is a hands on project for fun.'
 date: 2020-1-01
-paperurl: 'https://github.com/hitdshu/hityavie'
 ---
 # hityavie
-Yet another visual inertial estimator(YAVIE). 
+Yet another visual inertial estimator(YAVIE). See [here](https://github.com/hitdshu/hityavie)
 
 This is a hands on project for fun. I don't want to write any detail about this repo since no one would actually check it carefully. Though I learned a lot and got a lot of fun while creating it.
 
