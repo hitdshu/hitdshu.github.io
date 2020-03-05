@@ -2,7 +2,7 @@
 title: "基于深度学习的自动泊车停车位检测方法"
 collection: publications
 permalink: /publication/PLD-patent
-excerpt: '本发明涉及自动驾驶技术领域，具体来说是一种基于深度学习的自动泊车停车位检测方法。'
+excerpt: 'Main contributor. 本发明涉及自动驾驶技术领域，具体来说是一种基于深度学习的自动泊车停车位检测方法。'
 date: 2019-7-01
 paperurl: 'http://www.zhuanliqiao.com/zlqiao/patent-49e0b6c945aa4c5891724e2959c16d4c.html'
 ---
