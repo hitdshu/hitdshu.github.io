@@ -2,7 +2,7 @@
 title: "Grid-Refinement Direction of Arrival Tracking via Least Square Compressive Sensing"
 collection: publications
 permalink: /publication/DOA-Tracking
-excerpt: 'In this paper, we propose a novel DOA tracking algorithm based on Least Square Compressive Sensing.'
+excerpt: 'Main contributor. In this paper, we propose a novel DOA tracking algorithm based on Least Square Compressive Sensing.'
 date: 2016-9-01
 paperurl: 'https://ieeexplore.ieee.org/document/7774768'
 ---
