@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Words"
-    url: /words/    
-    
   - title: "Projects"
     url: /projects/ 
+
+  - title: "Words"
+    url: /words/ 
+    
+  - title: "Favorates"
+    url: /favorates/
     
   - title: "CV"
     url: /cv/
