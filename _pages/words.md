@@ -20,9 +20,5 @@ Engineering is necessary to choose appropriate theoretical models, and theory is
 All knowledge is, in final analysis, history. All sciences are, in the abstract, mathematics. All judgements are, in their rationale, statistics. 
 --Statistics And Truth
 
-The fundamental equation of computers is:
-computer = powerful + stupid
-Computers are very powerful, looking at volumes of data very quickly. Computers can perform billions of operations per second, where each operation is pretty simple.
-Computers are also shockingly stupid and fragile. The operations that they can do are extremely rigid, simple, and mechanical. The computer lacks anything like real insight ... it's nothing like the HAL 9000 from the movies. If nothing else, you should not be intimidated by the computer as if it's some sort of brain. It's very mechanical underneath it all.
-Programming is about a person using their real insight to build something useful, constructed out of these teeny, simple little operations that the computer can do.
+The fundamental equation of computers is: computer = powerful + stupid. Computers are very powerful, looking at volumes of data very quickly. Computers can perform billions of operations per second, where each operation is pretty simple. Computers are also shockingly stupid and fragile. The operations that they can do are extremely rigid, simple, and mechanical. The computer lacks anything like real insight ... it's nothing like the HAL 9000 from the movies. If nothing else, you should not be intimidated by the computer as if it's some sort of brain. It's very mechanical underneath it all. Programming is about a person using their real insight to build something useful, constructed out of these teeny, simple little operations that the computer can do.
 --Francisco Cai and Nick Parlante
