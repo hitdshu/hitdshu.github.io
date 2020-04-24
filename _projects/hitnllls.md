@@ -1,11 +1,11 @@
 ---
 title: "HITNLLS. A nonlinear least square(NLLS) solver. Fomulate the NLLS as graph optimization."
 collection: projects
-permalink: /projects/hitnllls
+permalink: /projects/hitnlls
 excerpt: 'A nonlinear least square(NLLS) solver. Fomulate the NLLS as graph optimization. For the name, hit here refers to Harbin Institute of Technology to honor the six wonderful years spent there and nlls is short for nonlinear least square.'
 date: 2019-5-01
 ---
-# hitnllls
+# hitnlls
 A nonlinear least square(NLLS) solver. Fomulate the NLLS as graph optimization. For the name, hit here refers to Harbin Institute of Technology to honor the six wonderful years spent there and nlls is short for nonlinear least square. See [here](https://github.com/hitdshu/hitnlls)
 
 ## Abstract
